@@ -1,0 +1,20 @@
+{
+	"name": "dcode PWA example",
+	"short_name": "dcode PWA example",
+	"start_url": ".",
+	"backgroud_color": "#6dcdb1",
+	"theme_color": "#009578",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "https://w7.pngwing.com/pngs/995/805/png-transparent-adidas-stan-smith-drawing-adidas-angle-text-logo.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://w7.pngwing.com/pngs/457/42/png-transparent-dell-technical-support-computer-icons-dell-logo-logo-desktop-wallpaper-bmp-file-format.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
